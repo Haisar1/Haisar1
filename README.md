@@ -5,11 +5,11 @@
 
 ---
 
-<div display="flex">
+<h3 align="left">My Stats :</h3>
 
-  ![Anthony Sarmiento GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haisar1&show_icons=true&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haisar1&layout=compact&theme=radical)  
+###
 
-</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haisar1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 ---
