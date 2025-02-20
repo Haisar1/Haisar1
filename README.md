@@ -40,15 +40,7 @@
 ---
 
 ### Infrastructure & IT Operations 
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/-Zabbix-DC0030?style=flat&logo=zabbix&logoColor=white">
-<img src="https://img.shields.io/badge/-GLPI-0066CC?style=flat&logo=glpi&logoColor=white">
-<img src="https://img.shields.io/badge/-CentOS%20Stream-262577?style=flat&logo=centos&logoColor=white">
-<img src="https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white">
-<img src="https://img.shields.io/badge/-ESET-0090D0?style=flat&logo=eset&logoColor=white">
-<img src="https://img.shields.io/badge/-360%20Total%20Security-00A500?style=flat&logo=360&logoColor=white">
-<img src="https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white">
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Zabbix-DC0030?style=flat&logo=zabbix&logoColor=white"> <img src="https://img.shields.io/badge/-GLPI-0066CC?style=flat&logo=glpi&logoColor=white"> <img src="https://img.shields.io/badge/-CentOS%20Stream-262577?style=flat&logo=centos&logoColor=white"> <img src="https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/-ESET-0090D0?style=flat&logo=eset&logoColor=white"> <img src="https://img.shields.io/badge/-360%20Total%20Security-00A500?style=flat&logo=360&logoColor=white"> <img src="https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white">
 
 ---
 
