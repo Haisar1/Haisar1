@@ -71,7 +71,12 @@
 
 ### 📫 Get In Touch
 <p align="left">
-<a href="https://linkedin.com/in/anthony-sarmiento-055b79210"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-
-<a href="mailto:anthonysarmiento044@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+  <a href="https://linkedin.com/in/anthony-sarmiento-055b79210">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anthonysarmiento044@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail">
+  </a>
 </p>
+
