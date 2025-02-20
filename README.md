@@ -17,30 +17,42 @@
 
 ### Development Tools & Technologies 
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
-
+<p align="left">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/libraries/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/libraries/react.svg" alt="React" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/databases/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/databases/mysql.svg" alt="MySQL" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/libraries/express.svg" alt="Express.js" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/firebase.svg" alt="Firebase" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/github.svg" alt="GitHub" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/vscode.svg" alt="VS Code" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/libraries/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/dotnet.svg" alt=".NET" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/engines/unity.svg" alt="Unity" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/databases/sqlserver.svg" alt="SQL Server" style="vertical-align:top; margin:4px">
+</p>
 
 ---
 
 ### Infrastructure & IT Operations 
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Zabbix-DC0030?style=flat&logo=zabbix&logoColor=white"> <img src="https://img.shields.io/badge/-GLPI-0066CC?style=flat&logo=glpi&logoColor=white"> <img src="https://img.shields.io/badge/-CentOS%20Stream-262577?style=flat&logo=centos&logoColor=white"> <img src="https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/-ESET-0090D0?style=flat&logo=eset&logoColor=white"> <img src="https://img.shields.io/badge/-360%20Total%20Security-00A500?style=flat&logo=360&logoColor=white"> <img src="https://img.shields.io/badge/-TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white">
+<p align="left">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/linux.svg" alt="Linux" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/zabbix.svg" alt="Zabbix" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/glpi.svg" alt="GLPI" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/centos.svg" alt="CentOS Stream" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/vmware.svg" alt="VMware" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/eset.svg" alt="ESET" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/360security.svg" alt="360 Total Security" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/ops/truenas.svg" alt="TrueNAS" style="vertical-align:top; margin:4px">
+</p>
 
 ---
 
